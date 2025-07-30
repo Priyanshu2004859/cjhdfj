@@ -55,7 +55,7 @@ This project focuses on creating a series of insightful and aesthetically pleasi
 **Skills Demonstrated:** Data Visualization, Matplotlib, Seaborn, Visual Storytelling, Chart Selection, Creating Impactful Visuals.
 
 ### 📬 Contact Information
-For more about me, visit my [GitHub Profile]_(https://github.com/NikhilSaini2810) or connect on [LinkedIn]_(https://www.linkedin.com/in/nikhil-saini-214570259/)
+For more about me, visit my [GitHub Profile]_(https://github.com/Priyanshu2004859) or connect on [LinkedIn]_()
 
 
 
